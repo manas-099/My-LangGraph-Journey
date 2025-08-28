@@ -1,0 +1,9 @@
+Document1 -> TopicA
+Document1 -> TopicB
+Document2 -> TopicB
+Document2 -> TopicC
+Document3 -> TopicA
+Document3 -> TopicC
+TopicA -> TopicB
+TopicB -> TopicC
+TopicC -> TopicD
